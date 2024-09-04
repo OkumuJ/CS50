@@ -8,6 +8,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+CS50/
 .Python
 build/
 develop-eggs/
