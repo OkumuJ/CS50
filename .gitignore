@@ -8,8 +8,6 @@ __pycache__/
 *.so
 
 # Distribution / packaging
-Intro to Computer Science /.vscode
-Intro to Computer Science /Python/CS50
 .Python
 build/
 develop-eggs/
