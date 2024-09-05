@@ -1,0 +1,8 @@
+import csv 
+
+
+# Reading csv file in python 
+with open("favorites.csv", "r") as file:
+    reader = csv.DictReader(file)
+    for row in reader:
+        print (row["language"])
