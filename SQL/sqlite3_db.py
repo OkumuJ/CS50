@@ -31,3 +31,4 @@ UPDATE favorites SET language = 'SQL', problem = 'fiftyville';
 IMdb //IMDb.com
 nested quesry 
 joining table 
+indexes
